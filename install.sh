@@ -3,8 +3,10 @@
 set -e
 
 # Configurable values
-SECRET="3ed0829c2ed2fa723ef0b4c59e32ad45"
+SECRET=${1:-$(head -c 16 /dev/urandom | xxd -p)}
 DOCKER_COMPOSE_FILE="docker-compose.yml"
+
+/usr/sbin/ufw allow 443
 
 # Colors
 GREEN="\e[32m"
