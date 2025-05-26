@@ -4,6 +4,12 @@ Telegram_MTProto_Proxy
 
 ![image](https://github.com/user-attachments/assets/0076ca1d-3d36-4b86-b99f-35a51f53444b)
 
+# Buy VPS
+
+Digital Ocean: 
+  
+  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3143894b1895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 # Install just 1 command:
 ```
 curl -O https://raw.githubusercontent.com/solotop999/Telegram_MTProto_Proxy/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
