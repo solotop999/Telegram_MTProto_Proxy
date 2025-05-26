@@ -10,6 +10,7 @@ Digital Ocean:
   
   [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3143894b1895&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+** chọn server bên Singapore cho nhanh nha > chọn dropple rẻ nhất 7$ là ngon rồi nha
 # Install just 1 command:
 ```
 curl -O https://raw.githubusercontent.com/solotop999/Telegram_MTProto_Proxy/refs/heads/main/install.sh && chmod +x install.sh && ./install.sh
